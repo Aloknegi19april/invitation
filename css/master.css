@@ -94,15 +94,6 @@ body {
   color: #008891;
 }
 
-.middle-container {
-  background-color: #fbf7f0;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  font-family: 'Tangerine', sans-serif;
-  padding: 150px 0 150px 0;
-}
-
 @media (max-width: 991px) {
   .invitation-card {
     height: 1200px;
@@ -181,15 +172,15 @@ body {
     word-spacing: 7px;
     color: #008891;
   }
+}
 
-  .middle-container {
-    background-color: #fbf7f0;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    font-family: 'Tangerine', sans-serif;
-    padding: 150px 0 150px 0;
-  }
+.middle-container {
+  background-color: #fbf7f0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Tangerine', sans-serif;
+  padding: 9% 0 9%;
 }
 
 .card-bride {
